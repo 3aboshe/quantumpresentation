@@ -22,7 +22,6 @@ const slides = [
     id: 1,
     type: "title",
     title: "Quantum Threats: The End of Encryption",
-    subtitle: "Why Class D Needs to Prepare Now",
     content: "An introduction to the physics that will break our digital locks.",
     visual: "lock-dissolve",
     definition: "Cybersecurity Alert: Quantum computing poses an existential threat to RSA and ECC encryption standards."
@@ -51,7 +50,7 @@ const slides = [
     title: "New Tech: The Spinning Coin",
     concept: "Qubits & Superposition",
     definition: "Qubit: A quantum bit that leverages superposition to represent both 0 and 1 simultaneously, exponentially increasing processing power.",
-    content: "A Qubit is like a spinning coin. Is it Heads? Is it Tails? While spinning, it is BOTH. This allows quantum computers to calculate millions of possibilities at once.",
+    content: "Superposition is the ability of a quantum system to be in multiple states at the same time until it is measured. Think of a spinning coin: it's not heads, it's not tails—it's a probability of both. This allows a quantum computer to process a vast number of possibilities in parallel.",
     visual: "spinning-coin"
   },
   {
