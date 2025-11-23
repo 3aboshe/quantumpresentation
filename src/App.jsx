@@ -77,7 +77,7 @@ const slides = [
     title: "Hardware Architecture",
     concept: "World-Line Braiding",
     definition: "Braiding: Information is encoded in the sequence of swaps between particles. To 'read' the data, you check how the paths are tangled.",
-    content: "How do we store data in a knot? By moving particles around each other over time. Imagine three dancers swapping places as they walk forward. Their path traces a braid. That 'braid' IS the memory.",
+    content: "How do we store data in a knot? By moving particles around each other over time. Imagine two particles moving down parallel lines. If they swap places, their paths braid together. The pattern of this braid is the data. To read it, we just look at how tangled the paths are.",
     visual: "braiding-time"
   },
   {
